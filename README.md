@@ -7,7 +7,7 @@ Implemented CPU scheduling algorithms :
 - Round robin 
 
 
-## An Idea on Sample Input/Output
+## Sample Input process
 
 1: FCFS
 
